@@ -1,0 +1,19 @@
+{
+    "name": "Cityzen",
+    "authors": [
+        "Gabriel Barreto <barreto-gabriel@outlook.com>"
+    ],
+    "description": "Cityzen Home Page",
+    "main": "index.html",
+    "keywords": ["Big Data Analytics", "Social Intelligence"],
+    "license": "MIT",
+    "homepage": "barreto.pe.hu/project/site/",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}

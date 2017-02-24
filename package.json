@@ -1,0 +1,21 @@
+{
+    "name": "Cityzen",
+    "version": "1.0.0",
+    "description": "Cityzen Home Page",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Gabriel Barreto <barreto-gabriel@outlook.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-notify": "^2.2.0",
+        "gulp-sass": "^2.3.2",
+        "gulp-sourcemaps": "",
+        "gulp-autoprefixer": "",
+        "gulp-watch": "",
+        "sass-doc": ""
+    }
+}
